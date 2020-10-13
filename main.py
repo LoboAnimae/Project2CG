@@ -1,3 +1,8 @@
+'''
+NOT ALL THE CODE INSIDE THIS PROJECT WAS MY IDEA/IS MINE. A LOT OF IT
+IS FROM DENNIS' CLASS AND SOME IS INSPIRED BY ONLINE SOLUTIONS.
+'''
+
 import time
 from ray import Raytracer
 from classes import *
